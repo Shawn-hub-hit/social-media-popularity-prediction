@@ -14,7 +14,6 @@ social media popularity prediction with deep learning
 # 2017
 ## IJCAI 2017
 - [Sequential Prediction of Social Media Popularity withDeep Temporal Context Networks](https://arxiv.org/abs/1712.04443)
-
 ## USENIX 2017
 - [Popularity prediction of facebook videos for higher quality streaming](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf)
 
@@ -23,7 +22,7 @@ social media popularity prediction with deep learning
 
 # 2016
 ## CIKM
--[Feature driven and point process approaches for popularity prediction](https://arxiv.org/pdf/1608.04862.pdf)
+- [Feature driven and point process approaches for popularity prediction](https://arxiv.org/pdf/1608.04862.pdf)
 
 # 2015
 ## MM 2015
