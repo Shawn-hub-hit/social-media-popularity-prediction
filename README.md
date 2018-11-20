@@ -2,7 +2,7 @@
 social media popularity prediction with deep learning
 
 # 2018
-##IJCAI 2018
+## IJCAI 2018
 - [Learning Sequential Correlation for User Generated Textual Content Popularity Prediction](https://arxiv.org/pdf/1712.04443.pdf)
 
 # 2017
