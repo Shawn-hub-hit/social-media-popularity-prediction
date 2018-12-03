@@ -3,7 +3,7 @@ social media popularity prediction with deep learning
 
 # 2018
 ## IJCAI 2018
-- [Learning Sequential Correlation for User Generated Textual Content Popularity Prediction](https://arxiv.org/pdf/1712.04443.pdf)
+- [Learning Sequential Correlation for User Generated Textual Content Popularity Prediction. W Wang](https://weizhangltt.github.io/paper/ijcai18-seqpop-preprint.pdf)
 
 ## WWW (theWebConference) 2018
 - [User-guided hierarchical attention network for multi-modal social image popularity prediction](https://weizhangltt.github.io/paper/zhang-www18.pdf)
@@ -13,7 +13,7 @@ social media popularity prediction with deep learning
 
 # 2017
 ## IJCAI 2017
-- [Sequential Prediction of Social Media Popularity withDeep Temporal Context Networks](https://arxiv.org/abs/1712.04443)
+- [Sequential Prediction of Social Media Popularity withDeep Temporal Context Networks. Bo Wu](https://arxiv.org/abs/1712.04443)
 ## USENIX 2017
 - [Popularity prediction of facebook videos for higher quality streaming](https://www.usenix.org/system/files/conference/atc17/atc17-tang.pdf)
 
